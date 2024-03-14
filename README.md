@@ -61,7 +61,6 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
 
-
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
@@ -72,20 +71,19 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **Program**
 
-![d1](https://github.com/Adchayakiruthika18/study-of-basic-gates/assets/147139995/36cae85c-39c2-4cc9-b0bd-8b82089e2b8e)
+![image](https://github.com/Adchayakiruthika18/study-of-basic-gates/assets/147139995/a4d99b31-7688-4986-913e-12e95f014f32)
 
- 
 **Logic symbol & Truthtable**
 
-![alt text](d2.png)
+![image](https://github.com/Adchayakiruthika18/study-of-basic-gates/assets/147139995/ab3ad567-705b-454f-818b-2272609e7712)
 
 **RTL realization** 
 
-![alt text](d3.png)
+![image](https://github.com/Adchayakiruthika18/study-of-basic-gates/assets/147139995/40ce515a-f2c5-4fa1-b872-819ad07fd773)
 
 **Output:**
 
-![D4](https://github.com/Adchayakiruthika18/study-of-basic-gates/assets/147139995/cc787370-5d8b-42b5-906f-db7f6166b727)
+![image](https://github.com/Adchayakiruthika18/study-of-basic-gates/assets/147139995/ba26c7b6-ccc1-44d9-bc5a-bf4a58b38c19)
 
 **Result:**
 
